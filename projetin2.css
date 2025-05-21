@@ -1,0 +1,62 @@
+/*Textos em geral______________________________________________________________________________________________________________________________________________________________*/
+h1{color:goldenrod;
+font-size: 60px;
+text-align: center;
+text-shadow:black 3px 3px;}
+
+h2{color:goldenrod;
+font-size: 45px;
+text-align: center;
+text-shadow:black 3px 3px;}
+    
+p{text-align: center;
+font-size: 30px;
+color: aliceblue;
+text-shadow:black 3px 3px;}
+
+/*Imagens_____________________________________________________________________________________________________________________________________________________________________*/
+.symbol{width: 400px;
+    height: 220px;
+margin-left: 740px;}
+
+.img2{width: 1875px;
+height: 850px;
+margin-left: 0px;
+margin-top:0px;
+border-style:double;
+border-color: goldenrod;
+border-radius: 3px;
+border-width: 7px;}
+
+.img3{width: 1875px;
+margin-left: 0px;
+margin-top: 30px;
+border-style:double;
+border-color: goldenrod;
+border-radius: 3px;
+border-width: 7px;}
+
+/*Divs______________________________________________________________________________________________________________________________________________________________________*/
+.caixabotaovoltar{border: solid;
+margin-left: 800px;
+color: orange;
+background-image: linear-gradient(black, goldenrod);
+width: 300px;}
+
+.titlebackground{border: solid;
+    color: goldenrod;
+    background-image:url(imagens_lamborghini/frontaventador.png.jpg  );}
+
+/*interatividade____________________________________________________________________________________________________________________________________________________________*/
+.textobotaovoltar{margin-left: 75px;
+font-size: 45px;
+color: rgb(235, 212, 155);}
+
+/*Ajustes do corpo do site__________________________________________________________________________________________________________________________________________________*/
+body{font-family: "Work Sans", sans-serif;
+font-optical-sizing: auto;
+font-weight: 800;
+font-style: italic;
+        
+background-image: linear-gradient(black, rgb(57, 53, 73), black,rgb(57, 53, 73),black );}
+    

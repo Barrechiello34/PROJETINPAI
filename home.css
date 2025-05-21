@@ -1,0 +1,64 @@
+/*Textos em geral_______________________________________________________________________________________________________________________________________________________________*/
+h1{color: aliceblue;
+font-size: 60px;
+text-align: center;
+text-shadow:black 3px 3px;}
+
+h2{color: rgb(255, 145, 42);
+font-size: 45px;
+text-align: center;
+text-shadow:black 3px 3px;}
+
+p{text-align: center;
+    font-size: 30px;
+color: aliceblue;
+text-shadow:black 3px 3px;}
+
+
+
+/*Divs_____________________________________________________________________________________________________________________________________________________________________*/
+.caixabotaokoenigsegg{border: solid;
+background-image: linear-gradient(black, rgb(189, 108, 32));
+width: 1000px;
+margin-left: 440px;
+margin-top: 300px;
+color: rgb(255, 170, 58);}
+
+.caixabotaolamborghini{border: solid;
+margin-left: 440px;
+margin-top: 20px;
+color: rgb(221, 181, 0);
+background-image: linear-gradient(black, goldenrod);
+width: 1000px;}
+
+
+
+/*Interatividade____________________________________________________________________________________________________________________________________________________________*/
+.textobotaokoenigsegg{margin-left: 150px;
+font-size: 120px;
+color: rgb(255, 216, 164);
+text-shadow: black 3px 3px;}
+
+.textobotaolamborghini{margin-left: 110px;
+font-size: 120px;
+color: rgb(235, 212, 155);
+text-shadow: black 3px 3px;}
+
+.b2{border: solid;
+color: orange;
+background-image: linear-gradient(black, rgb(189, 108, 32));
+width: 300px;
+margin-left: 700px;
+margin-top: 40px;
+font-size: 45px;
+color: rgb(255, 216, 164);}
+
+/*Ajustes do corpo do site__________________________________________________________________________________________________________________________________________________*/
+body{font-family: "Work Sans";
+    font-optical-sizing: auto;
+    font-weight: 8000;
+    font-style: italic;background-color: rgb(0, 0, 0);
+
+    background-image: linear-gradient(rgb(57, 53, 73),black);
+    background-repeat: no-repeat;
+}

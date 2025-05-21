@@ -1,0 +1,93 @@
+/*Textos em geral_______________________________________________________________________________________________________________________________________________________________*/
+h1{color:rgb(255, 145, 42);
+font-size: 60px;
+text-align: center;
+text-shadow:black 3px 3px;}
+
+h2{color: rgb(255, 145, 42);
+font-size: 45px;
+text-align: center;
+text-shadow:black 3px 3px;}
+
+p{text-align: center;
+    font-size: 30px;
+color: aliceblue;
+text-shadow:black 3px 3px;}
+
+
+
+/*Imagens_____________________________________________________________________________________________________________________________________________________________________*/
+.symbol{width: 520px;
+    height: 310px;
+margin-left: 690px;}
+
+.img1{width: 1875px;
+margin-left: 0px;
+border-style:double;
+border-color: rgb(255, 145, 42);
+border-radius: 3px;
+border-width: 7px;}
+
+.img2{width: 1875px;
+margin-left: 0px;
+ margin-top: 20px;
+border-style: double;
+ border-color: rgb(255, 145, 42);
+ border-radius: 3px;
+ border-width: 7px;}
+
+.img3{width: 600px;
+margin-left: 640px;
+border-style: double;
+border-color: rgb(255, 145, 42);
+border-radius: 3px;
+border-width: 7px;}
+
+.img4{width: 600px;
+margin-left: 640px;
+border-style: double;
+border-color: rgb(255, 145, 42);
+border-radius: 3px;
+border-width: 7px;}
+
+.img5{width: 900px;
+margin-left: 500px;
+border-style: double;
+border-color: rgb(255, 145, 42);
+border-radius: 3px;
+border-width: 7px;}
+
+
+
+/*Divs_____________________________________________________________________________________________________________________________________________________________________*/
+.titlebackground{border: solid;
+    color: rgb(255, 145, 42);
+    background-image:url(imagens/JeskoThumbnail_V2.png  );}
+
+.caixabotaovoltar{border: solid;
+    margin-left: 800px;
+color: orange;
+background-image: linear-gradient(black, rgb(189, 108, 32));
+width: 300px;}
+
+
+
+/*Interatividade____________________________________________________________________________________________________________________________________________________________*/
+.textobotaovoltar{margin-left: 75px;
+font-size: 45px;
+color: rgb(255, 216, 164);}
+
+
+
+/*Ajustes do corpo do site__________________________________________________________________________________________________________________________________________________*/
+body{font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: italic;background-color: rgb(0, 0, 0);
+    
+background-image: linear-gradient(black, rgb(57, 53, 73), black,rgb(57, 53, 73),black,rgb(57, 53, 73),black );}
+
+    hr{border-color: rgb(255, 145, 42);}
+
+    
+
